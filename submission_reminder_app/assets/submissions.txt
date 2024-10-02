@@ -1,0 +1,9 @@
+student,assignment,status
+John Doe,Shell Navigation,submitted
+Jane Smith,Shell Navigation,not submitted
+Alice Brown,Shell Navigation,submitted
+Michael Green,Shell Navigation,not submitted
+Chris Johnson,Shell Navigation,submitted
+Emma Wilson,Shell Navigation,not submitted
+Mark Davis,Shell Navigation,submitted
+Sarah Lee,Shell Navigation,not submitted
